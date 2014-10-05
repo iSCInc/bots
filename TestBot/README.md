@@ -1,0 +1,1 @@
+Read https://www.mediawiki.org/wiki/Manual:Wikibot.
