@@ -1,4 +1,7 @@
-Chris-G-botclasses
-==================
+HelloWorldBot
+====
 
-MediaWiki bot framework by Chris G
+
+
+----
+(c) *2014-present* **Suriyaa Kudo**
